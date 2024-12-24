@@ -1,0 +1,80 @@
+body{
+    background: url(https://th.bing.com/th/id/R.c14576b4319ac6e86d19439fc3730dc4?rik=Ci8rYkseJ%2fEecg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fBackgrounds-download-space-wallpaper-HD.jpg&ehk=THftsVAb6REKrqDfgZ2VD2SIXgDYZOdSDjyFIAbmYvg%3d&risl=&pid=ImgRaw&r=0);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 100px;
+    background: linear-gradient(to left, rgba(0, 0, 135, 1)20%, rgba(92, 0, 207, 1)100%);
+    background-clip: text;
+    color: transparent;
+}
+
+.hallo{
+    text-decoration: none;
+    color: white;
+    position: center;
+    font-size: 20px;
+    text-align: center;
+    padding: 1px 450px;
+    font-weight: 600;
+}
+.hallo:hover{
+    background: linear-gradient(to top, rgba(0, 0, 135, 1), rgba(92, 0, 207, 1));
+    background-clip: text;
+    color: transparent;
+    filter: drop-shadow( 0 0 10px white) ;
+}
+
+table{
+    padding: 10px 300px;
+    text-align: center;
+    width: 100%;
+}
+
+th{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    width: 100vw;
+}
+
+tr{
+    background-color:white;
+    color: black;
+    padding: 10px 20px;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background: linear-gradient(to right, rgba(0, 0, 135, 1), rgba(92, 0, 207, 1));
+    background-clip: text;
+    color: transparent;
+}
+
+form{
+    text-align: center;
+    padding: 10px 300px;
+    color: white;
+} 
+
+.edit:hover{
+    background: linear-gradient(to right, rgba(0, 0, 135, 1), rgba(92, 0, 207, 1));
+    color: white;
+}
+
+input:hover{
+    background: linear-gradient(to right, rgba(0, 0, 135, 1), rgba(92, 0, 207, 1));
+    color: white;
+}
